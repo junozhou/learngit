@@ -5,3 +5,4 @@ now, i lear about reset last vision,so i modified this file again,let have many 
 get change one 
 get change two
 get change three
+i forget -m one
